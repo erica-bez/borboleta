@@ -3,7 +3,7 @@
 ## Borboleta-azul-morpho (Morpho spp)
 
 
-![borboleta-azul](../img/Borboleta-azul-morpho (Morpho spp).jpeg)
+![borboleta-azul](../img/Borboleta-azul-morpho.jpeg)
 
 
 
